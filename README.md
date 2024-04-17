@@ -1,6 +1,6 @@
 # LV 1 zadatak - Osobna stranica
 
-### LINK: 
+### LINK: https://antonioparadzik.github.io/portfolio-example/
 
 <hr />
 
